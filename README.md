@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Sou estudante do ensino médio da PEI Luiz Darly 😄
 <!--
 **williandossantosgowatski/williandossantosgowatski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
